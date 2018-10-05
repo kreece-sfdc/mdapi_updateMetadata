@@ -1,14 +1,11 @@
 # SFDX  App
 
-## Dev, Build and Test
+Create org
 
+<code>sfdx force:package:install -i 04t0N0000012ufa -u ORGALIAS</code>
 
-## Resources
+<code>sfdx force:source:push</code>
 
+<code>sfdx force:user:password:generate</code>
 
-## Description of Files and Directories
-
-
-## Issues
-
-
+Run updateMetadata
