@@ -1,6 +1,6 @@
 # SFDX  App
 
-Create org
+## Create Org and Deploy Repo
 
 <code>sfdx force:org:create -f config/project-scratch-def.json -s -a ALIAS</code>
 
